@@ -260,15 +260,6 @@
             "message": "Прошивка устройства",
             "responsible": "Сергеев С.С.",
             "isRead": false
-        },
-        {
-            "id": 30,
-            "date": "22.11.2023 18:15:35",
-            "importance": "Критическая",
-            "ware": "Вегас",
-            "message": "Системный сбой",
-            "responsible": "Королев К.К.",
-            "isRead": false
         }
     ]
 }
